@@ -1,0 +1,6 @@
+applications:
+-name: onlineshopping-microservice
+path: target/pcf-cloud-config.jar
+domain: cfapps.io
+memory: 1G
+instanes: 1

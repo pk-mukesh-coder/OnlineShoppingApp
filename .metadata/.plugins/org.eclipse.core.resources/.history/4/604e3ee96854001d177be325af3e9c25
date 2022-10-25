@@ -1,0 +1,9 @@
+server.port=8888
+
+spring.application.name=config-server
+
+spring.cloud.config.server.git.uri=file:///C:/SpringCloud/LocalRepo/
+
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka
+
+spring.cloud.config.server.git.default-label=master
