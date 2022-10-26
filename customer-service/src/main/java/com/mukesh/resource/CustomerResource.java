@@ -23,7 +23,6 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import com.mukesh.dto.CustomerDTO;
 import com.mukesh.service.CustomerService;
-import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 @RequestMapping("/customers")
 @RestControllerAdvice
