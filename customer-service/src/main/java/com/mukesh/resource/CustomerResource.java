@@ -36,22 +36,29 @@ public class CustomerResource {
 	@Value("${server.port}")
 	private String port;
 
+	// ribbon -load-balancing
+	@GetMapping("/app")
+	public String getApp() {
+		return "the port is" + port;
+	}
+
 	@Value("${customer.test}")
 	private String test;
-	
+
 	// config -server-profile
 	@GetMapping("/test")
 	public String test() {
 		return test;
 	}
 
+	// Method for Hystrix
+	@RequestMapping("/hystrix")
+	public String HelloHystrixyClass() {
+		return "Hello From Customer -service";
+	}
+
 	@Autowired
 	private CustomerService customerService;
-
-	@GetMapping("/app")
-	public String getApp() {
-		return "the port is" + port;
-	}
 
 	@ResponseStatus(HttpStatus.OK)
 	@GetMapping("/")
@@ -79,7 +86,6 @@ public class CustomerResource {
 	}
 
 	@PostMapping("/")
-	@HystrixCommand(fallbackMethod = "handleCustomerDownTime")
 	@ResponseStatus(HttpStatus.CREATED)
 	public CustomerDTO add(@RequestBody CustomerDTO customerDTO) {
 		return customerService.save(customerDTO);
@@ -90,10 +96,6 @@ public class CustomerResource {
 		LOG.error("There was an error: ", ex);
 		// Add conditional logic to show differnt status on different exceptions
 		return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
-	}
-
-	public CustomerDTO handleCustomerDownTime(@RequestBody CustomerDTO customerDTO) {
-		return customerService.save(customerDTO);
 	}
 
 }

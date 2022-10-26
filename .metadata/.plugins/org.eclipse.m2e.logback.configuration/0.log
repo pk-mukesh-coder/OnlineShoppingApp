@@ -148,3 +148,658 @@
 2022-10-25 20:05:24,525 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-25 20:05:24,525 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-10-25 20:05:24,525 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 07:32:21,874 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-26 07:53:38,052 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 07:53:38,055 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 07:53:38,063 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 07:53:38,065 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 07:53:38,079 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 07:53:38,079 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 07:53:38,079 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 08:07:01,387 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:07:01,389 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:07:01,393 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:07:01,395 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:07:01,399 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:07:01,399 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:07:01,399 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 08:08:21,734 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:08:21,734 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:08:21,735 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:08:21,735 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:08:21,738 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:08:21,739 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:08:21,739 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\customer-service\src\test\resources
+2022-10-26 08:08:34,384 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:08:34,384 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:08:34,386 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:08:34,387 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:08:34,389 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:08:34,389 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:08:34,389 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\customer-service\src\test\resources
+2022-10-26 08:08:43,217 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:08:43,218 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:08:43,219 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:08:43,220 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:08:43,223 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:08:43,223 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:08:43,223 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\customer-service\src\test\resources
+2022-10-26 08:15:04,633 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:15:04,633 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:15:04,634 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:15:04,635 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:15:04,637 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:15:04,638 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:15:04,638 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 08:24:03,065 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:24:03,066 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:24:03,067 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:24:03,068 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:24:03,071 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:24:03,071 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:24:03,072 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 08:24:07,256 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:24:07,257 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:24:07,258 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:24:07,259 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:24:07,264 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:24:07,264 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:24:07,264 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\customer-service\src\test\resources
+2022-10-26 08:26:39,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:26:39,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:26:39,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:26:39,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:26:39,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:26:39,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:26:39,192 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 08:32:09,699 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:32:09,699 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:32:09,699 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:32:09,699 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:32:09,699 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:32:09,699 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:32:09,699 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 08:59:43,683 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:59:43,683 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:59:43,699 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 08:59:43,699 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 08:59:43,699 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 08:59:43,699 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 08:59:43,699 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 09:02:15,515 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:02:15,515 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:02:15,515 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:02:15,515 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:02:15,530 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:02:15,579 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:02:15,579 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 09:10:31,710 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:10:31,710 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:10:31,710 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:10:31,710 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:10:31,725 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:10:31,725 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:10:31,725 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 09:10:37,100 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:10:37,100 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:10:37,100 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:10:37,100 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:10:37,100 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:10:37,100 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:10:37,100 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 09:24:10,446 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:24:10,446 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:24:10,446 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:24:10,446 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:24:10,446 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:24:10,446 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:24:10,446 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 09:24:26,461 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:24:26,461 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:24:26,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:24:26,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 09:24:26,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:24:26,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:24:26,477 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 09:31:18,296 [Worker-72: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 09:31:22,838 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 09:31:23,272 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 09:31:25,011 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 09:31:25,011 [Worker-72: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 09:31:25,571 [Worker-72: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 09:31:42,956 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 09:31:44,639 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:31:44,639 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:31:44,639 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:31:44,752 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 09:31:44,792 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:31:44,792 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:31:44,792 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 09:31:45,880 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 09:31:46,540 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 09:31:48,273 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 09:31:48,273 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 09:31:48,273 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 09:31:48,273 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 09:31:48,834 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 09:31:50,417 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:31:50,417 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:31:50,417 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:31:50,417 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 09:31:50,417 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:31:50,417 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:31:50,417 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 09:32:38,255 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 09:32:40,240 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.9.RELEASE/spring-cloud-starter-netflix-ribbon-2.2.9.RELEASE.pom
+2022-10-26 09:32:41,281 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.9.RELEASE/spring-cloud-starter-netflix-ribbon-2.2.9.RELEASE.pom
+2022-10-26 09:32:41,618 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix/2.2.9.RELEASE/spring-cloud-starter-netflix-2.2.9.RELEASE.pom
+2022-10-26 09:32:42,314 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix/2.2.9.RELEASE/spring-cloud-starter-netflix-2.2.9.RELEASE.pom
+2022-10-26 09:32:42,618 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/2.2.9.RELEASE/spring-cloud-netflix-2.2.9.RELEASE.pom
+2022-10-26 09:32:43,293 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/2.2.9.RELEASE/spring-cloud-netflix-2.2.9.RELEASE.pom
+2022-10-26 09:32:43,668 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.9.RELEASE/spring-cloud-netflix-ribbon-2.2.9.RELEASE.pom
+2022-10-26 09:32:44,696 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.2.9.RELEASE/spring-cloud-netflix-ribbon-2.2.9.RELEASE.pom
+2022-10-26 09:32:45,104 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.9.RELEASE/spring-cloud-netflix-archaius-2.2.9.RELEASE.pom
+2022-10-26 09:32:46,182 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.2.9.RELEASE/spring-cloud-netflix-archaius-2.2.9.RELEASE.pom
+2022-10-26 09:32:46,643 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.9.RELEASE/spring-cloud-starter-netflix-archaius-2.2.9.RELEASE.pom
+2022-10-26 09:32:47,873 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.2.9.RELEASE/spring-cloud-starter-netflix-archaius-2.2.9.RELEASE.pom
+2022-10-26 09:32:48,583 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.9.RELEASE/spring-cloud-starter-netflix-ribbon-2.2.9.RELEASE.jar
+2022-10-26 09:32:49,816 [Worker-79: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.9.RELEASE/spring-cloud-starter-netflix-ribbon-2.2.9.RELEASE.jar
+2022-10-26 09:32:52,857 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:32:52,857 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:32:52,857 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:32:52,857 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:32:52,865 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:32:52,865 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:32:52,865 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 09:32:55,049 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:32:55,049 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:32:55,049 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:32:55,068 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 09:32:55,076 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:32:55,076 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:32:55,076 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 09:32:55,141 [Worker-79: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.9.RELEASE/spring-cloud-starter-netflix-ribbon-2.2.9.RELEASE-sources.jar
+2022-10-26 09:32:55,333 [Worker-79: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.2.9.RELEASE
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.cloud:spring-cloud-starter-netflix-ribbon:jar:sources:2.2.9.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-10-26 09:32:59,839 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 09:33:00,229 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 09:33:01,680 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 09:33:01,680 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 09:33:01,680 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 09:33:01,680 [Worker-78: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 09:33:02,029 [Worker-78: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 09:33:03,540 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:33:03,540 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:33:03,540 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:33:03,540 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 09:33:03,556 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:33:03,556 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:33:03,556 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 09:33:04,250 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.9.RELEASE/spring-cloud-starter-netflix-ribbon-2.2.9.RELEASE-javadoc.jar
+2022-10-26 09:33:05,229 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.2.9.RELEASE/spring-cloud-starter-netflix-ribbon-2.2.9.RELEASE-javadoc.jar
+2022-10-26 09:33:06,106 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.2.9.RELEASE
+2022-10-26 09:33:06,706 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:33:06,706 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:33:06,706 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:33:06,706 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 09:33:06,706 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 09:33:06,706 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 09:33:06,706 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:25:52,901 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:25:52,902 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:25:52,905 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:25:52,907 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:25:52,913 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:25:52,914 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:25:52,914 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:26:49,272 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:26:49,272 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:26:49,274 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:26:49,276 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:26:49,279 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:26:49,280 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:26:49,280 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:30:54,039 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:30:54,040 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:30:54,043 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:30:54,046 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:30:54,053 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:30:54,053 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:30:54,054 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:31:45,440 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:31:45,440 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:31:45,442 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:31:45,445 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:31:45,451 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:31:45,451 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:31:45,451 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:46:52,957 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:46:52,957 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:46:52,957 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:46:52,973 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:46:52,973 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:46:52,973 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:46:52,973 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:47:14,845 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:47:14,845 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:47:14,845 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:47:14,845 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:47:14,856 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:47:14,856 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:47:14,856 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:48:27,424 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:48:27,424 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:48:27,432 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:48:27,432 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:48:27,440 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:48:27,440 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:48:27,440 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:55:24,552 [Worker-98: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 10:55:26,461 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.3/spring-boot-devtools-2.7.3.pom
+2022-10-26 10:55:27,138 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.3/spring-boot-devtools-2.7.3.pom
+2022-10-26 10:55:27,595 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.3/spring-boot-devtools-2.7.3.jar
+2022-10-26 10:55:28,545 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.3/spring-boot-devtools-2.7.3.jar
+2022-10-26 10:55:32,102 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:32,102 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:32,103 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:32,105 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:32,108 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:32,108 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:32,111 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:55:34,003 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:34,003 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:34,006 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:34,008 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:55:34,044 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:34,044 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:34,044 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:55:34,525 [Worker-88: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.3/spring-boot-devtools-2.7.3-sources.jar
+2022-10-26 10:55:35,510 [Worker-88: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.3/spring-boot-devtools-2.7.3-sources.jar
+2022-10-26 10:55:36,485 [Worker-88: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.7.3
+2022-10-26 10:55:37,177 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:37,177 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:37,177 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:37,177 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:37,177 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:37,177 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:37,177 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:55:46,026 [Worker-98: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 10:55:47,206 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.4/spring-boot-devtools-2.7.4.pom
+2022-10-26 10:55:48,085 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.4/spring-boot-devtools-2.7.4.pom
+2022-10-26 10:55:48,477 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.4/spring-boot-devtools-2.7.4.jar
+2022-10-26 10:55:50,055 [Worker-98: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.4/spring-boot-devtools-2.7.4.jar
+2022-10-26 10:55:52,130 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:52,130 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:52,130 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:52,130 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:52,146 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:52,146 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:52,146 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:55:54,412 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:54,412 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:54,428 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:54,428 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:55:54,428 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:54,428 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:54,428 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:55:54,706 [Worker-95: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.4/spring-boot-devtools-2.7.4-sources.jar
+2022-10-26 10:55:55,540 [Worker-95: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.7.4/spring-boot-devtools-2.7.4-sources.jar
+2022-10-26 10:55:56,465 [Worker-95: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.7.4
+2022-10-26 10:55:57,158 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:57,158 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:57,158 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:57,158 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:55:57,174 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:55:57,174 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:55:57,174 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 10:56:07,087 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 10:56:07,559 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 10:56:09,260 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 10:56:09,260 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 10:56:09,260 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 10:56:09,260 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 10:56:09,760 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 10:56:11,099 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:56:11,099 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:56:11,099 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 10:56:11,099 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 10:56:11,099 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 10:56:11,099 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 10:56:11,115 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:00:25,335 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:00:25,335 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:00:25,335 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:00:25,335 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 11:00:25,351 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:00:25,351 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:00:25,351 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:01:54,983 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:01:54,983 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:01:54,983 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:01:54,983 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 11:01:54,983 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:01:54,983 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:01:54,999 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:02:25,476 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 11:02:26,012 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 11:02:28,194 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 11:02:28,194 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:02:28,194 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:02:28,194 [Worker-99: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 11:02:28,571 [Worker-99: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-10-26 11:02:30,006 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:02:30,006 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:02:30,006 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:02:30,006 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 11:02:30,025 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:02:30,025 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:02:30,025 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:03:15,530 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:03:15,530 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:03:15,544 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:03:15,546 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 11:03:15,546 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:03:15,546 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:03:15,546 [Worker-103: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:09:05,094 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 11:09:05,565 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 11:09:07,415 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/ribbon/ribbon-core/2.7.17/ribbon-core-2.7.17.pom
+2022-10-26 11:09:08,098 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/ribbon/ribbon-core/2.7.17/ribbon-core-2.7.17.pom
+2022-10-26 11:09:08,527 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/annotations/2.0.0/annotations-2.0.0.jar
+2022-10-26 11:09:08,761 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/ribbon/ribbon-core/2.7.17/ribbon-core-2.7.17.jar
+2022-10-26 11:09:09,111 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/annotations/2.0.0/annotations-2.0.0.jar
+2022-10-26 11:09:09,330 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/ribbon/ribbon-core/2.7.17/ribbon-core-2.7.17.jar
+2022-10-26 11:09:14,838 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 11:09:14,838 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:09:14,854 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:09:14,854 [Worker-100: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 11:09:15,641 [Worker-100: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2022-10-26 11:09:17,078 [Worker-106: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/ribbon/ribbon-core/2.7.17/ribbon-core-2.7.17-sources.jar
+2022-10-26 11:09:17,610 [Worker-106: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/ribbon/ribbon-core/2.7.17/ribbon-core-2.7.17-sources.jar
+2022-10-26 11:09:18,128 [Worker-106: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.ribbon:ribbon-core:2.7.17
+2022-10-26 11:09:18,965 [Worker-106: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/annotations/2.0.0/annotations-2.0.0-sources.jar
+2022-10-26 11:09:19,107 [Worker-106: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.google.code.findbugs:annotations:2.0.0
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.code.findbugs:annotations:jar:sources:2.0.0
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:828)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:117)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:796)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:773)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:311)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:285)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:255)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:223)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:152)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:182)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:156)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:103)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1416)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:152)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-10-26 11:09:28,062 [Worker-102: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:09:28,062 [Worker-102: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:09:28,062 [Worker-102: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:09:28,062 [Worker-102: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 11:09:28,093 [Worker-102: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:09:28,093 [Worker-102: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:09:28,093 [Worker-102: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:12:22,372 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 11:12:22,905 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 11:12:24,874 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 11:12:24,874 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:12:24,874 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:12:24,874 [Worker-106: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 11:12:25,371 [Worker-106: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 11:13:21,611 [Worker-101: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 11:13:22,125 [Worker-101: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 11:13:24,056 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 11:13:24,056 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:13:24,056 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:13:24,056 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 11:13:24,416 [Worker-101: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 11:13:30,691 [Worker-106: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:13:30,691 [Worker-106: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:13:30,691 [Worker-106: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:13:30,691 [Worker-106: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 11:13:30,708 [Worker-106: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:13:30,708 [Worker-106: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:13:30,708 [Worker-106: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:38:44,346 [Worker-110: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 11:38:44,839 [Worker-110: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 11:38:46,910 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 11:38:46,910 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:38:46,910 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 11:38:46,910 [Worker-110: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 11:38:47,382 [Worker-110: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-10-26 11:39:02,920 [Worker-113: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:39:02,920 [Worker-113: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:39:02,920 [Worker-113: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:39:02,920 [Worker-113: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 11:39:02,935 [Worker-113: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:39:02,935 [Worker-113: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:39:02,935 [Worker-113: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:44:45,316 [Worker-111: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:44:45,316 [Worker-111: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:44:45,316 [Worker-111: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:44:45,316 [Worker-111: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 11:44:45,316 [Worker-111: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:44:45,316 [Worker-111: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:44:45,316 [Worker-111: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:46:15,127 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:46:15,127 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:46:15,127 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:46:15,127 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 11:46:15,132 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:46:15,132 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:46:15,132 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:49:24,469 [Worker-116: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:49:24,469 [Worker-116: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:49:24,469 [Worker-116: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:49:24,469 [Worker-116: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 11:49:24,485 [Worker-116: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:49:24,485 [Worker-116: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:49:24,485 [Worker-116: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:51:26,963 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:51:26,963 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:51:26,963 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:51:26,963 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 11:51:26,978 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:51:26,978 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:51:26,978 [Worker-108: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 11:59:53,832 [Worker-121: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:59:53,832 [Worker-121: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:59:53,832 [Worker-121: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 11:59:53,832 [Worker-121: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 11:59:53,832 [Worker-121: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 11:59:53,832 [Worker-121: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 11:59:53,832 [Worker-121: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 12:03:54,826 [Worker-127: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:03:54,826 [Worker-127: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:03:54,826 [Worker-127: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 12:03:54,826 [Worker-127: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 12:03:54,837 [Worker-127: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:03:54,837 [Worker-127: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:03:54,837 [Worker-127: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 12:10:33,262 [Worker-115: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:10:33,262 [Worker-115: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:10:33,263 [Worker-115: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 12:10:33,264 [Worker-115: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 12:10:33,270 [Worker-115: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:10:33,270 [Worker-115: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:10:33,270 [Worker-115: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 12:11:30,492 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 12:11:31,450 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 12:11:31,892 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:config-server:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\config-server\pom.xml.
+2022-10-26 12:11:32,207 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:customer-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\customer-service\pom.xml.
+2022-10-26 12:11:32,270 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:api-gateway:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\api-gateway\pom.xml.
+2022-10-26 12:11:32,443 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:eureka-server:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\eureka-server\pom.xml.
+2022-10-26 12:11:32,490 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:sales-order-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\sales-order-service\pom.xml.
+2022-10-26 12:11:36,724 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2022-10-26 12:11:36,724 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2022-10-26 12:11:36,724 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2022-10-26 12:11:36,724 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2022-10-26 12:11:36,869 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/main/java
+2022-10-26 12:11:36,869 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2022-10-26 12:11:36,869 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /config-server/src/main/resources
+2022-10-26 12:11:36,869 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /config-server/src/test/java
+2022-10-26 12:11:37,022 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/main/java
+2022-10-26 12:11:37,022 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-10-26 12:11:37,022 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-10-26 12:11:37,022 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/test/java
+2022-10-26 12:11:37,289 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/main/java
+2022-10-26 12:11:37,289 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2022-10-26 12:11:37,289 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /eureka-server/src/main/resources
+2022-10-26 12:11:37,289 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /eureka-server/src/test/java
+2022-10-26 12:11:37,437 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 12:11:37,437 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 12:11:37,437 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 12:11:37,437 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 12:11:37,605 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales-order-service/src/main/java
+2022-10-26 12:11:37,605 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales-order-service/src/main/resources
+2022-10-26 12:11:37,605 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales-order-service/src/main/resources
+2022-10-26 12:11:37,605 [Worker-115: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales-order-service/src/test/java
+2022-10-26 12:11:38,125 [Worker-115: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2022-10-26 12:11:45,754 [Worker-115: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:11:45,754 [Worker-115: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:11:45,754 [Worker-115: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 12:11:45,769 [Worker-115: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 12:11:45,785 [Worker-115: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:11:45,785 [Worker-115: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:11:45,785 [Worker-115: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\eureka-server\src\test\resources
+2022-10-26 12:13:39,116 [Worker-124: Launching config-server - ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:13:39,116 [Worker-124: Launching config-server - ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:13:39,116 [Worker-124: Launching config-server - ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 12:13:39,132 [Worker-124: Launching config-server - ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 12:13:39,132 [Worker-124: Launching config-server - ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:13:39,132 [Worker-124: Launching config-server - ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:13:39,132 [Worker-124: Launching config-server - ConfigServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\config-server\src\test\resources
+2022-10-26 12:13:56,476 [Worker-124: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:13:56,476 [Worker-124: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:13:56,476 [Worker-124: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 12:13:56,476 [Worker-124: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 12:13:56,492 [Worker-124: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 12:13:56,492 [Worker-124: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 12:13:56,492 [Worker-124: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 13:20:22,949 [Worker-153: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 13:20:23,234 [Worker-153: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:customer-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\customer-service\pom.xml.
+2022-10-26 13:20:24,793 [Worker-153: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/main/java
+2022-10-26 13:20:24,793 [Worker-153: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-10-26 13:20:24,793 [Worker-153: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /customer-service/src/main/resources
+2022-10-26 13:20:24,793 [Worker-153: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /customer-service/src/test/java
+2022-10-26 13:20:25,124 [Worker-153: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 13:20:40,769 [Worker-152: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:20:40,769 [Worker-152: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:20:40,769 [Worker-152: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 13:20:40,769 [Worker-152: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 13:20:40,819 [Worker-152: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:20:40,819 [Worker-152: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:20:40,820 [Worker-152: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\customer-service\src\test\resources
+2022-10-26 13:21:19,733 [Worker-153: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:21:19,733 [Worker-153: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:21:19,750 [Worker-153: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 13:21:19,751 [Worker-153: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 13:21:19,755 [Worker-153: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:21:19,755 [Worker-153: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:21:19,755 [Worker-153: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 13:24:39,152 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 13:24:39,540 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 13:24:41,681 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 13:24:41,681 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 13:24:41,681 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 13:24:41,681 [Worker-149: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 13:24:42,212 [Worker-149: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-10-26 13:24:49,056 [Worker-156: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:24:49,056 [Worker-156: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:24:49,056 [Worker-156: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 13:24:49,056 [Worker-156: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 13:24:49,114 [Worker-156: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:24:49,114 [Worker-156: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:24:49,114 [Worker-156: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 13:46:09,225 [Worker-150: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:46:09,225 [Worker-150: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:46:09,226 [Worker-150: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 13:46:09,246 [Worker-150: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 13:46:09,250 [Worker-150: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:46:09,250 [Worker-150: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:46:09,251 [Worker-150: Launching api-gateway - ApiGatewayApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\api-gateway\src\test\resources
+2022-10-26 13:47:03,320 [Worker-150: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:47:03,320 [Worker-150: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:47:03,320 [Worker-150: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 13:47:03,320 [Worker-150: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 13:47:03,342 [Worker-150: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 13:47:03,342 [Worker-150: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 13:47:03,342 [Worker-150: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 14:01:02,163 [Worker-170: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 14:01:03,034 [Worker-170: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:sales-order-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\sales-order-service\pom.xml.
+2022-10-26 14:01:05,395 [Worker-170: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales-order-service/src/main/java
+2022-10-26 14:01:05,395 [Worker-170: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales-order-service/src/main/resources
+2022-10-26 14:01:05,395 [Worker-170: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales-order-service/src/main/resources
+2022-10-26 14:01:05,395 [Worker-170: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales-order-service/src/test/java
+2022-10-26 14:01:05,943 [Worker-170: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2022-10-26 14:01:14,668 [Worker-177: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:01:14,668 [Worker-177: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:01:14,674 [Worker-177: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 14:01:14,674 [Worker-177: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 14:01:14,674 [Worker-177: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:01:14,674 [Worker-177: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:01:14,674 [Worker-177: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 14:03:11,462 [Worker-175: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 14:03:11,832 [Worker-175: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:sales-order-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\sales-order-service\pom.xml.
+2022-10-26 14:03:13,691 [Worker-175: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales-order-service/src/main/java
+2022-10-26 14:03:13,692 [Worker-175: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales-order-service/src/main/resources
+2022-10-26 14:03:13,692 [Worker-175: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sales-order-service/src/main/resources
+2022-10-26 14:03:13,693 [Worker-175: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sales-order-service/src/test/java
+2022-10-26 14:03:14,121 [Worker-175: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 14:03:20,314 [Worker-175: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:03:20,314 [Worker-175: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:03:20,315 [Worker-175: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 14:03:20,315 [Worker-175: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 14:03:20,324 [Worker-175: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:03:20,324 [Worker-175: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:03:20,324 [Worker-175: Launching sales-order-service - SalesOrderServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\sales-order-service\src\test\resources
+2022-10-26 14:30:00,482 [Worker-181: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:30:00,482 [Worker-181: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:30:00,484 [Worker-181: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 14:30:00,485 [Worker-181: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-26 14:30:00,488 [Worker-181: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:30:00,488 [Worker-181: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:30:00,488 [Worker-181: Launching customer-service - CustomerServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\customer-service\src\test\resources
+2022-10-26 14:47:17,881 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:47:17,881 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:47:17,882 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 14:47:17,884 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 14:47:17,900 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 14:47:17,900 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 14:47:17,900 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources
+2022-10-26 14:55:50,847 [Worker-183: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-10-26 14:55:51,335 [Worker-183: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mukesh.cloud:item-service:0.0.1-SNAPSHOT @ C:\OnlineShoppingApp\item-service\pom.xml.
+2022-10-26 14:55:53,022 [Worker-183: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/main/java
+2022-10-26 14:55:53,022 [Worker-183: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 14:55:53,023 [Worker-183: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /item-service/src/main/resources
+2022-10-26 14:55:53,023 [Worker-183: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /item-service/src/test/java
+2022-10-26 14:55:53,326 [Worker-183: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-10-26 15:01:06,993 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 15:01:06,993 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 15:01:06,993 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-26 15:01:06,993 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-10-26 15:01:07,009 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-26 15:01:07,009 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-10-26 15:01:07,010 [Worker-181: Launching item-service - ItemServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\OnlineShoppingApp\item-service\src\test\resources

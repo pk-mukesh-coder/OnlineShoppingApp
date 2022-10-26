@@ -1,0 +1,15 @@
+spring.application.name=item-service
+
+
+spring.cloud.config.discovery.enabled=true
+spring.cloud.config.discovery.service-id=config-server
+
+
+spring.cloud.config.profile=dev
+
+
+management.endpoints.web.exposure.include=refresh
+spring.main.allow-circular-references=true
+
+customer-service.ribbon.listOfServers=http://localhost:8900, http://localhost:9000  
+

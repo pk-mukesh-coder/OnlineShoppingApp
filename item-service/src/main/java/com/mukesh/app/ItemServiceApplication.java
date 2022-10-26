@@ -15,7 +15,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class ItemServiceApplication {
 
 	
-	
 	public static void main(String[] args) {
 		SpringApplication.run(ItemServiceApplication.class, args);
 	}

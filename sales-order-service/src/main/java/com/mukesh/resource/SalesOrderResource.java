@@ -6,7 +6,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.web.client.RestTemplateBuilder;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
+import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -20,9 +22,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
+import org.springframework.web.client.RestTemplate;
 
 import com.mukesh.dto.SalesOrderDTO;
 import com.mukesh.service.SalesOrderService;
+import com.netflix.appinfo.InstanceInfo;
+import com.netflix.discovery.EurekaClient;
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 @RequestMapping("/orders")
 @RestControllerAdvice
@@ -33,12 +39,26 @@ public class SalesOrderResource {
 	private static final Logger LOG = LoggerFactory.getLogger(SalesOrderResource.class);
 
 	
+	
+	//Here we are perform hystrix for circuit breaker
+	
+	@RequestMapping("/hystrix")
+	@HystrixCommand(fallbackMethod="fallbackGreeting")
+	public String callServiceClass() {
+		return new RestTemplate()
+				.getForObject("http://localhost:9001/customers/hystrix",String.class);
+	}
+	
+	public String fallbackGreeting() {
+		System.out.println("Response from fallback method");
+		return "Hello from fallback method";
+	}
+	
+	
 	@Value("${sales.test}")
 	private String test;
 	
-	
-	//config -server-profile
-	
+	//config -server-profile-changes
 		@GetMapping("/test")
 		public String test() {
 			return test;

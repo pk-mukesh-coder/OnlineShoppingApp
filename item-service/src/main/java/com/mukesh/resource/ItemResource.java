@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
+import org.springframework.cloud.netflix.ribbon.RibbonClient;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -22,46 +23,43 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.client.RestTemplate;
 
+import com.mukesh.config.RibbonConfig;
 import com.mukesh.dto.ItemDTO;
 import com.mukesh.service.ItemService;
 
 
-/*
- * @RibbonClient(name="customer-service",configuration=RibbonConfig.class)
- */
+
 
 @RequestMapping("/items")
 @RestControllerAdvice
 @RestController
 @RefreshScope
+@RibbonClient(
+		  name = "customer-service",
+		  configuration = RibbonConfig.class)
 public class ItemResource {
 
+	//Here we are Implementing Load Balancing using Ribbon
+	@Autowired
+    RestTemplate restTemplate;
+
+    @GetMapping("/invoke")
+    public String serverLocation() {
+    	String url="http://customer-service/customers/app";
+        return restTemplate.getForObject(
+          url,String.class);
+    }
 	
-	/*
-	 * @Autowired private RestTemplate restTemplate;
-	 */
 	
 	@Value("${item.test}")
 	private String test;
 	
-	
 	//config -server-profile
-	
 		@GetMapping("/test")
 		public String test() {
 			return test;
 		}
 		
-		/*
-		 * @GetMapping("/ribbon-load-balancing") public String getData() { return
-		 * restTemplate.getForObject("http:/customer-service/app",String.class); }
-		 */
-	/*
-	 * @Bean
-	 * 
-	 * @LoadBalanced public RestTemplate getRestTemplate() { return new
-	 * RestTemplate(); }
-	 */
 	
 	@Autowired
 	private ItemService itemService;
