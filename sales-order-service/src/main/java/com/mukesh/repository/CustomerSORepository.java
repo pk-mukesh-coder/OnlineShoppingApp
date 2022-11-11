@@ -7,4 +7,6 @@ import com.mukesh.datamodel.Customer;
 
 @Repository
 public interface CustomerSORepository extends JpaRepository<Customer, Long> {
+	
+	
 }

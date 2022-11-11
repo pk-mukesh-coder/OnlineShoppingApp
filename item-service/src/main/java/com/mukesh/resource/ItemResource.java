@@ -84,7 +84,6 @@ public class ItemResource {
 
 	@ExceptionHandler(Exception.class)
 	public ResponseEntity<?> handleException(Throwable ex) {
-		// Add conditional logic to show differnt status on different exceptions
 		return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
 	}
 

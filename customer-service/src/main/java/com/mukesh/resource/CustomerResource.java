@@ -93,7 +93,6 @@ public class CustomerResource {
 	@ExceptionHandler(Exception.class)
 	public ResponseEntity<?> handleException(Throwable ex) {
 		LOG.error("There was an error: ", ex);
-		// Add conditional logic to show differnt status on different exceptions
 		return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
 	}
 

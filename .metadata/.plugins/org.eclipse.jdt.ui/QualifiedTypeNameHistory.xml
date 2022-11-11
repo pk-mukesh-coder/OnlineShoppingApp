@@ -11,4 +11,7 @@
     <fullyQualifiedTypeName name="com.mukesh.config.RibbonConfig"/>
     <fullyQualifiedTypeName name="com.netflix.client.config.IClientConfig"/>
     <fullyQualifiedTypeName name="com.netflix.loadbalancer.AvailabilityFilteringRule"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="com.mukesh.datamodel.SalesOrder"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
