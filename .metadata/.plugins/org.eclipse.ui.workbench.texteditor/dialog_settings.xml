@@ -8,6 +8,8 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="gson\"/>
+			<item value="json"/>
 			<item value="dependency&gt;&#x0A;&#x09;&#x09;&#x09;&lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;&#x0A;&#x09;&#x09;&#x09;&lt;artifactId&gt;spring-boot-starter-web&lt;/artifactId&gt;&#x0A;&#x09;&#x09;&lt;/dependency&gt;&#x0A;&#x09;&#x09;"/>
 			<item value="ribbon"/>
 			<item value="devtools"/>
@@ -23,6 +25,6 @@
 		<item key="DIALOG_Y_ORIGIN" value="167"/>
 		<item key="DIALOG_WIDTH" value="511"/>
 		<item key="DIALOG_HEIGHT" value="523"/>
-		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 </section>

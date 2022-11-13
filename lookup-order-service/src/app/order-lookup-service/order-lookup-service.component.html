@@ -15,6 +15,7 @@
     <th>Order Id</th>
     <th>Customer Id</th>
     <th> Order Description</th>
+    <th>ViewDetail</th>
 </tr>
 </thead>
 <tbody>
@@ -22,9 +23,15 @@
 <th>{{order.id}}</th>
 <th>{{order.custId}}</th>
 <th>{{order.orderDesc}}</th>
+<th><a class="btn btn-sm text-white btn-primary" [routerLink]="['/summary/']+order.id">View Detail</a></th>
 </tr>
 </tbody>
     </table>
 </div>
+<div class="page-content" style="text-align:center">
+    <router-outlet></router-outlet>
+</div>
+
+
 </body>
 </html>

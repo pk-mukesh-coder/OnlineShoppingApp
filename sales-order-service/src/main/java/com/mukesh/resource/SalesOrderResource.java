@@ -85,7 +85,7 @@ public class SalesOrderResource {
 		return salesOrderService.getLookUpOrder(id);
 	}
 	
-	
+	@CrossOrigin("http://localhost:4200")
 	@ResponseStatus(HttpStatus.OK)
 	@GetMapping("/{id}")
 	public SalesOrderDTO get(@PathVariable long id) {

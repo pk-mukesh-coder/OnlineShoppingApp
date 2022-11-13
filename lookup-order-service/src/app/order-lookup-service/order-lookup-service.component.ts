@@ -10,19 +10,25 @@ import { Component, OnInit } from '@angular/core';
 export class OrderLookupServiceComponent implements OnInit{
 
   orders :any;
-  url="http://localhost:8001/orders/customer/7";
+  data:any;
+  id:any;
 
   constructor(private _http:HttpClient) {
-    this._http.get(this.url).subscribe(
+    this.getRequest().subscribe(
        data => { this.orders = data;
-        console.log(data);
-              
-    })
-
-
+  
+    });
 }
 
   ngOnInit(): void {
   }
 
+  getRequest(){
+    return this._http.get("http://localhost:8001/orders/");
+    }
+
+  getOne(id:number){
+    return this._http.get("http://localhost:8001/orders/"+id);
+
+}
 }
